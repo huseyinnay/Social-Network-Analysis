@@ -35,8 +35,3 @@ Calculated key centrality metrics including **betweenness**, **closeness**, and 
 Measured global network properties such as **density**, **clustering coefficient**, and **average shortest path length**.  
 Applied **Louvain** and **Girvan-Newman** algorithms for community detection and uncovered **interaction patterns** and **influence dynamics** within the network.
 
-## 📁 Nasıl Çalıştırılır?
-
-```bash
-pip install -r requirements.txt
-python main.py
